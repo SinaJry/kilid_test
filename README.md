@@ -1,2 +1,2 @@
 # kilid_test
-create a class to retrive data from postgresql (p4admin) and plot charts 
+this repository contains a script which define a class including 2 method to retrive data from postsgresql (p4admin) and to plot charts. 
